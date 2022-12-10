@@ -1,2 +1,2 @@
-# 50-projects
+# javaScript-projects
 javascript mini projects
